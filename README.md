@@ -7,11 +7,13 @@ The main goals of this homework were:
     - Collect crypto prices using the requests Library
     - Collect investments data using Alpaca
     - Perform a savings health analysis
+
 2. Retirement planning analysis
     -Complete a Monte Carlo simulation wiht 500 runs
     -Plot the Monte Carlo simulation.
     -Plot the probability distribution and confidence intervals of the MCMC simulation.
     -Complete the retirement analysis (greater initial investment)
+    
  3. Optional Bonus: Retirement analysis with different proportions of stocks and bonds or greater initial investment.
     -Adjust the portfolio to reflect an early retirement and rerun the analysis to show either a higher stock than bond
     ratio or to have a higher initial investment
